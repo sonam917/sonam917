@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sonam917
+- 👋 Hi, I’m sonam
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning React js
 - 📫 How to reach me sonampal917@gmail.com
 
 <!---
