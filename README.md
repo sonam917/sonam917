@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sonam
-- 👀 I’m interested in coding
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning React js
 - 📫 How to reach me sonampal917@gmail.com
 
